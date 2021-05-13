@@ -9,7 +9,7 @@
 <br />
 
 
-![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=PriateXYF&show_icons=true&title_color=0480ef&icon_color=79ff97&text_color=fff&bg_color=151515)
+![Anish Ghimire Github Stats](https://github-readme-stats.vercel.app/api?username=PriateXYF&show_icons=true&title_color=660000&icon_color=660000&text_color=800000&bg_color=F0DFAF)
 
 <br /> 
 
