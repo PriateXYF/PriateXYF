@@ -16,4 +16,4 @@
 - 📫 How to reach me: <a href = "mailto:jsonp@tuta.io">📧 E-Mail </a>&nbsp;&nbsp;
 *************
 
-#### Thank You 🙏🏼
+#### @@@ DTE @@@
