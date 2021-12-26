@@ -2,9 +2,9 @@
 ### Hi there 👋
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Priate. A Student.
-- 💻 I’m developing awesome web projects at [virts.app](http://www.virts.app).
-- 🌹 If you like me, you can support me in [afdian](https://www.afdian.net/@priate).
+- 👹 Don't ask me who I am. I’m Nobody.
+- 👺 Trying to save the world.
+- 😈 Happy Coding.
 
 <br />
 
@@ -13,8 +13,7 @@
 
 <br /> 
 
-- 📫 How to reach me:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "mailto:ufoquinccy@outlook.com">📧 E-Mail </a>&nbsp;&nbsp;
+- 📫 How to reach me: <a href = "mailto:jsonp@tuta.io">📧 E-Mail </a>&nbsp;&nbsp;
 *************
 
 #### Thank You 🙏🏼
