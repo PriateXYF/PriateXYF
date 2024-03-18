@@ -1,7 +1,3 @@
-### About
-
-I’m **Nobody**.
-
 ### Skills
 
 ![](https://img.shields.io/badge/Golang-184D66?style=for-the-badge&logo=go)
