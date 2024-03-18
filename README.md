@@ -15,5 +15,4 @@ I’m **Nobody**.
 
 ### Contact
 [![mail](https://img.shields.io/badge/mail-virts@airmail.cc-0078D4?style=for-the-badge&logo=gmail)](mailto:virts@airmail.cc)
-[![telegram](https://img.shields.io/badge/tg-@yuuummy-24A1DD?style=for-the-badge&logo=Telegram)](https://t.me/yuuummy)
 [![line](https://img.shields.io/badge/line-@wirts-00C300?style=for-the-badge&logo=line)](https://line.me/ti/p/v60HRsJADb)
